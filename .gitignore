@@ -1,3 +1,7 @@
+/kirby
+/site/plugins/*
+# !/site/plugins/your-plugin
+
 # System files
 # ------------
 
@@ -52,7 +56,6 @@ Icon
 # Vendor
 # ---------------
 
-/kirby
 /vendor
 /node_modules
 

@@ -1,18 +1,22 @@
+**Important:** This starterkit ignores the `site/plugins` folder to keep plugins installed via Composer out of your project repository.
+
+If you want to add plugins that don't use Composer, please exclude them from this rule as described in the `.gitignore` file.
+
 <img src="http://getkirby.com/assets/images/github/plainkit.jpg" width="300">
 
 
-**Kirby: the CMS that adapts to any project, loved by developers and editors alike.**  
+**Kirby: the CMS that adapts to any project, loved by developers and editors alike.**
 The Plainkit is a minimal Kirby setup with the basics you need to start a project from scratch. It is the ideal choice if you are already familiar with Kirby and want to start step-by-step.
 
 You can learn more about Kirby at [getkirby.com](https://getkirby.com).
 
-### Try Kirby for free  
+### Try Kirby for free
 You can try Kirby and the Plainkit on your local machine or on a test server as long as you need to make sure it is the right tool for your next project. … and when you’re convinced, [buy your license](https://getkirby.com/buy).
 
 ### Get going
 Read our guide on [how to get started with Kirby](https://getkirby.com/docs/guide/quickstart).
 
-You can [download the latest version](https://github.com/getkirby/plainkit/archive/main.zip) of the Plainkit.  
+You can [download the latest version](https://github.com/getkirby/plainkit/archive/main.zip) of the Plainkit.
 If you are familiar with Git, you can clone Kirby's Plainkit repository from Github.
 
     git clone https://github.com/getkirby/plainkit.git
@@ -30,5 +34,5 @@ If you are familiar with Git, you can clone Kirby's Plainkit repository from Git
 
 ---
 
-© 2009-2022 Bastian Allgeier  
+© 2009-2022 Bastian Allgeier
 [getkirby.com](https://getkirby.com) · [License agreement](https://getkirby.com/license)
