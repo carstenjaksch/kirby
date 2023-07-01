@@ -48,3 +48,14 @@ Icon
 # ---------------
 
 /site/config/.license
+
+# Vendor
+# ---------------
+
+/vendor
+/node_modules
+
+# Environment
+# ---------------
+
+.env
